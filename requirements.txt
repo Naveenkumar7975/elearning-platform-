@@ -1,3 +1,4 @@
 Django>=5.0,<6.0
 djangorestframework>=3.15
-# mysqlclient>=2.2   # uncomment only if you switch to MySQL (see README)
+gunicorn>=22.0
+whitenoise>=6.6
